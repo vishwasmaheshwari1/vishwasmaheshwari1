@@ -1,6 +1,9 @@
 <h1>Hi, I’m Vishwas Maheshwari</h1>
 - I’m currently wokring as Engineer (GIS Developer) at ESRI India.
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwasmaheshwari1&show_icons=true&theme=radical)
+
 Skills:
 JavaScript | HTML/CSS | Python | Java | C# | VB | .NET | PostgreSQL | Android | XCode | Swift | Objective-C
 
