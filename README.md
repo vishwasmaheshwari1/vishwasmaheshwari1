@@ -1,5 +1,5 @@
 # Hi, I’m Vishwas Maheshwari
-- I’m currently wokring as Engineer (GIS Developer) at ESRI India.
+- Engineer (GIS Developer) at ESRI India.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwasmaheshwari1&show_icons=true&theme=radical)
