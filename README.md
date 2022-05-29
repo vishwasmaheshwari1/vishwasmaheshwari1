@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @vishwasmaheshwari1
-- 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Vishwas Maheshwari
+- 👀 I’m currently wokring as GIS Developer
+- 🌱 I’m currently learning AWS, Node, ReactJS
 
 <!---
 vishwasmaheshwari1/vishwasmaheshwari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
