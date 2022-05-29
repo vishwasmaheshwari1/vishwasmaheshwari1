@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishwas Maheshwari
 - 👀 I’m currently wokring as GIS Developer at esri India
-- 🌱 I’m currently learning AWS, Node, ReactJS, Django
+- 🌱 I’m currently learning AWS, Node, ReactJS, Django, Java (Spring)
 
 <!---
 vishwasmaheshwari1/vishwasmaheshwari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
