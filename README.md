@@ -1,10 +1,14 @@
-<h1>Hi, I’m Vishwas Maheshwari</h1>
+# ***Hi, I’m Vishwas Maheshwari***
 
 <ul>
 <li>Engineer at ESRI India</li>
 <li>I've developed GIS based applications for Web, Android and iOS</li>
 <li>I'm currently focusing on becoming a better Full Stack Developer</li>
-</ul>
+</ul>  
+
+
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishwasmaheshwari1&show_icons=true&theme=radical"/>
 
@@ -41,13 +45,13 @@
 </p>
 
 
-<h3>Current Goal:</h3>
-<ul>
- <li>Expand my knowledge on AWS, MERN Stack, Spring</li>
-</ul> 
+### Current Goals:
+1. AWS 
+2. MERN Stack 
+3. Spring 
 
 
-
+<!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
 <!---
 vishwasmaheshwari1/vishwasmaheshwari1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
