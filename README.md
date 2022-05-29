@@ -1,4 +1,5 @@
-Hi, I’m Vishwas Maheshwari. I’m currently wokring as Engineer (GIS Developer) at esri India.
+- Hi, I’m Vishwas Maheshwari. 
+- I’m currently wokring as Engineer (GIS Developer) at ESRI India.
 
 Skills:
 JavaScript | HTML/CSS | Python | Java | C# | VB | .NET | PostgreSQL | Android | XCode | Swift | Objective-C
