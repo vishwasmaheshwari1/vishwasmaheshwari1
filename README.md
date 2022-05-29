@@ -17,23 +17,23 @@
 
 <h4 align="left">Languages:</h4>
 <p align="left">
-  <img src="images/html5.svg" alt="html5" width="30" height="30" title="HTML"/>
-  <img src="images/css3.svg" alt="css3" width="30" height="30" title="CSS"/>
+  <img src="images/html5.svg" alt="html5" width="40" height="40" title="HTML"/>
+  <img src="images/css3.svg" alt="css3" width="40" height="40" title="CSS"/>
  
-  <img src="images/javascript.svg" alt="javascript" width="30" height="30" title="JavaScript"/>
+  <img src="images/javascript.svg" alt="javascript" width="40" height="40" title="JavaScript"/>
   
-  <img src="images/java.svg" alt="java" width="30" height="30" title="Java"/>
+  <img src="images/java.svg" alt="java" width="40" height="40" title="Java"/>
   
-  <img src="images/csharp.svg" alt="csharp" width="30" height="30" title="C#"/>
+  <img src="images/csharp.svg" alt="csharp" width="40" height="40" title="C#"/>
   
-  <img src="images/objective-c.svg" alt="objectivec" width="30" height="30" title="Objective-C"/>
-  <img src="images/swift.svg" alt="swift" width="30" height="30" title="Swift"/>
+  <img src="images/objective-c.svg" alt="objectivec" width="40" height="40" title="Objective-C"/>
+  <img src="images/swift.svg" alt="swift" width="40" height="40" title="Swift"/>
 </p>
 
 <h4 align="left">Technologies:</h4>
 <p align="left">
-<img src="images/postgresql.svg" alt="postgresql" width="30" height="30" title="PostgresSQL"/>
-<img src="images/dot-net.svg" alt=".NET" width="30" height="30" title=".NET"/> 
+<img src="images/postgresql.svg" alt="postgresql" width="40" height="40" title="PostgresSQL"/>
+<img src="images/dot-net.svg" alt=".NET" width="40" height="40" title=".NET"/> 
   
   
 <!--   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/>
@@ -49,6 +49,13 @@
 1. AWS 
 2. MERN Stack 
 3. Spring 
+
+
+## Connect With Me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishwasmaheshwari3/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
 
 
 <!-- https://medium.com/analytics-vidhya/writing-github-readme-e593f278a796 -->
