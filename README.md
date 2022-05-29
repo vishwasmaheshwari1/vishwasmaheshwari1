@@ -41,9 +41,9 @@
 </p>
 
 
-<h3>Current Goal:<h3>
+<h3>Current Goal:</h3>
 <ul>
-  <li>Expand my knowledge on AWS, MERN Stack, Spring</li>
+ <li>Expand my knowledge on AWS, MERN Stack, Spring</li>
 </ul> 
 
 
