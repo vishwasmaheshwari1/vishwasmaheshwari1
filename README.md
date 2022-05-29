@@ -13,23 +13,23 @@
 
 <h4 align="left">Languages:</h4>
 <p align="left">
-  <img src="images/html5.svg" alt="html5" width="30" height="30"/>
-  <img src="images/css3.svg" alt="css3" width="30" height="30"/>
+  <img src="images/html5.svg" alt="html5" width="30" height="30" title="HTML"/>
+  <img src="images/css3.svg" alt="css3" width="30" height="30" title="CSS"/>
  
-  <img src="images/javascript.svg" alt="javascript" width="30" height="30"/>
+  <img src="images/javascript.svg" alt="javascript" width="30" height="30" title="JavaScript"/>
   
-  <img src="images/java.svg" alt="java" width="30" height="30"/>
+  <img src="images/java.svg" alt="java" width="30" height="30" title="Java"/>
   
-  <img src="images/csharp.svg" alt="csharp" width="30" height="30"/>
+  <img src="images/csharp.svg" alt="csharp" width="30" height="30" title="C#"/>
   
-  <img src="images/objective-c.svg" alt="objectivec" width="30" height="30"/>
-  <img src="images/swift.svg" alt="swift" width="30" height="30"/>
+  <img src="images/objective-c.svg" alt="objectivec" width="30" height="30" title="Objective-C"/>
+  <img src="images/swift.svg" alt="swift" width="30" height="30" title="Swift"/>
 </p>
 
 <h4 align="left">Technologies:</h4>
 <p align="left">
-<img src="images/postgresql.svg" alt="postgresql" width="30" height="30"/>
-<img src="images/dot-net.svg" alt=".NET" width="30" height="30"/> 
+<img src="images/postgresql.svg" alt="postgresql" width="30" height="30" title="PostgresSQL"/>
+<img src="images/dot-net.svg" alt=".NET" width="30" height="30" title=".NET"/> 
   
   
 <!--   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/>
