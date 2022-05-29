@@ -3,7 +3,7 @@
 <ul>
 <li>Engineer at ESRI India</li>
 <li>I've developed GIS based applications for Web, Android and iOS</li>
-<li>I'm currently focusing on becoming a better Full Stack</li>
+<li>I'm currently focusing on becoming a better Full Stack Developer</li>
 </ul>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishwasmaheshwari1&show_icons=true&theme=radical"/>
@@ -13,35 +13,39 @@
 
 <h4 align="left">Languages:</h4>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/>
+  <img src="images/html5.svg" alt="html5" width="30" height="30"/>
+  <img src="images/css3.svg" alt="css3" width="30" height="30"/>
  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+  <img src="images/javascript.svg" alt="javascript" width="30" height="30"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  <img src="images/java.svg" alt="java" width="30" height="30"/>
   
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="30" height="30"/>
+  <img src="images/csharp.svg" alt="csharp" width="30" height="30"/>
   
-  <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/>
+  <img src="images/objective-c.svg" alt="objectivec" width="30" height="30"/>
+  <img src="images/swift.svg" alt="swift" width="30" height="30"/>
 </p>
 
 <h4 align="left">Technologies:</h4>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="30" height="30"/> 
+<img src="images/postgresql.svg" alt="postgresql" width="30" height="30"/>
+<img src="images/dot-net.svg" alt=".NET" width="30" height="30"/> 
   
   
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/> 
-  
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/> 
+<!--   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>  -->
 
 
   
   
 </p>
 
-I’m currently focusing on expanding my knowledge on AWS, MERN Stack, Java (Springboot)
+
+<h3>Current Goal:<h3>
+<ul>
+  <li>Expand my knowledge on AWS, MERN Stack, Spring</li>
+</ul> 
+
 
 
 <!---
