@@ -1,8 +1,7 @@
 # ***Hi, I’m Vishwas Maheshwari***
 
 <ul>
-<li>Engineer at ESRI India</li>
-<li>I've developed GIS based applications for Web, Android and iOS</li>
+<li>I develop GIS based applications for Web, Android and iOS</li>
 <li>I'm currently focusing on becoming a better Full Stack Developer</li>
 </ul>  
 
