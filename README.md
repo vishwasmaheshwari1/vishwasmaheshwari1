@@ -8,6 +8,15 @@
 
 <br>
 
+### Learning
+1. DSA
+
+### Want to work on:
+1. AWS 
+2. Spring (Java)
+
+<br>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=vishwasmaheshwari1&show_icons=true&theme=radical"/>
 
@@ -44,10 +53,6 @@
 </p>
 
 
-### Current Goals:
-1. AWS 
-2. MERN Stack 
-3. Spring 
 
 
 ## Connect With Me:
