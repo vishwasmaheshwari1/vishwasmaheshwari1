@@ -8,12 +8,12 @@
 
 <br>
 
-### Learning
+<!--  ### Learning 
 1. DSA
-
+--> 
 ### Want to work on:
-1. AWS 
-2. Spring (Java)
+1. Cloud Technology 
+2. Spring Framework
 
 <br>
 
